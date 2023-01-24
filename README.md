@@ -8,10 +8,10 @@ Netflix is one of the most popular media and video streaming platforms. They hav
 A simple analysis for those who start with data analysis in python.
 Different types of charts are made using a few variables and columns.
 
-**Loading the dataset:**
+**Loading the dataset**
 
-**Data Cleaning:** 
+**Data Cleaning** 
  
-**Data Visualization:** 
+**Data Visualization** 
 
-**Data Visualization:** 
+**Data Visualization** 
